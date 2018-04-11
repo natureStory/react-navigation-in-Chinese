@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="259c046f-c648-441d-b0fc-7a0bc9f6c8e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/react-navigation-in-Chinese.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/custom-navigator-overview.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/custom-navigators.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/custom-routers.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/navigation-views.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/routers.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/transitioner.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/glossary-of-terms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/header-buttons.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/headers.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/hello-react-navigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/modal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/navigating.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/next-steps.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/params.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/start.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fundamentals/规范.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/auth-flow.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/connecting-navigation-prop.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/custom-android-back-button-handling.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/deep-linking.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/drawer-based-navigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/handling-iphonex.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/navigating-without-navigation-prop.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/redux-integration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/screen-tracking.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/status-bar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/howDoIdo/tab-based-navigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta/alternatives.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta/contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meta/pitch.md" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -181,12 +216,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523328065800</updated>
-      <workItem from="1523328067134" duration="17380000" />
+      <workItem from="1523328067134" duration="17483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17380000" />
+    <option name="totallyTimeSpent" value="17483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />

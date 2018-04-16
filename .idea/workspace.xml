@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="259c046f-c648-441d-b0fc-7a0bc9f6c8e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fundamentals/glossary-of-terms.md" afterPath="$PROJECT_DIR$/fundamentals/glossary-of-terms.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fundamentals/next-steps.md" afterPath="$PROJECT_DIR$/fundamentals/next-steps.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/规范.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="263">
-                <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="40" />
+              <first_editor relative-caret-position="278">
+                <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -29,12 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="239">
-                <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,6 +47,39 @@
       </file>
       <file leaf-file-name="next-steps.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fundamentals/next-steps.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glossary-of-terms.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fundamentals/glossary-of-terms.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="683">
+                <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+                <folding>
+                  <marker date="1523868212054" expanded="true" signature="310:432" ph="{...}" />
+                  <marker date="1523868212054" expanded="true" signature="322:367" ph="{&quot;screen&quot;: HomeScreen...}" />
+                  <marker date="1523868212054" expanded="true" signature="382:427" ph="{&quot;screen&quot;: DetailsScreen...}" />
+                  <marker date="1523868212054" expanded="true" signature="436:471" ph="{&quot;initialRouteName&quot;: 'Home'...}" />
+                  <marker date="1523868212054" expanded="true" signature="915:1236" ph="{...}" />
+                  <marker date="1523868212054" expanded="true" signature="928:1234" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tab-based-navigation.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/howDoIdo/tab-based-navigation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -80,6 +116,8 @@
         <option value="$PROJECT_DIR$/fundamentals/header-buttons.md" />
         <option value="$PROJECT_DIR$/fundamentals/modal.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/fundamentals/next-steps.md" />
+        <option value="$PROJECT_DIR$/fundamentals/glossary-of-terms.md" />
       </list>
     </option>
   </component>
@@ -192,18 +230,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523328065800</updated>
-      <workItem from="1523328067134" duration="42897000" />
+      <workItem from="1523328067134" duration="46045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42897000" />
+    <option name="totallyTimeSpent" value="46045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45465538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -291,28 +329,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/howDoIdo/drawer-based-navigation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/howDoIdo/tab-based-navigation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentals/glossary-of-terms.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -663,19 +679,8 @@
     <entry file="file://$PROJECT_DIR$/fundamentals/next-steps.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/规范.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="263">
-            <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="40" />
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
             <folding />
           </first_editor>
           <second_editor />
@@ -685,8 +690,48 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/规范.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="278">
+            <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentals/glossary-of-terms.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="683">
+            <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+            <folding>
+              <marker date="1523868212054" expanded="true" signature="310:432" ph="{...}" />
+              <marker date="1523868212054" expanded="true" signature="322:367" ph="{&quot;screen&quot;: HomeScreen...}" />
+              <marker date="1523868212054" expanded="true" signature="382:427" ph="{&quot;screen&quot;: DetailsScreen...}" />
+              <marker date="1523868212054" expanded="true" signature="436:471" ph="{&quot;initialRouteName&quot;: 'Home'...}" />
+              <marker date="1523868212054" expanded="true" signature="915:1236" ph="{...}" />
+              <marker date="1523868212054" expanded="true" signature="928:1234" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/howDoIdo/tab-based-navigation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

@@ -9,6 +9,8 @@
 React Navigation 源于 React Native 社区对基于 Javascript 的可扩展且易于使用的导航解决方案的需求。
 
 > 如有任何疑问或翻译上的建议，请邮件 niuchunlei@foxmail.com 联系我～ QAQ
+> 如果有翻译不同步或翻译错误，还请大家指正哦
+> 翻译辛苦不易，觉得不错还请右上角给个小星星🌟哈～
 
 ### 文档 & 帮助
 

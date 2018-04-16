@@ -25,13 +25,13 @@ React Navigation 源于 React Native 社区对基于 Javascript 的可扩展且�
 1. [配置标题栏](./fundamentals/headers.md)
 1. [头部按钮](./fundamentals/header-buttons.md)
 1. [全屏模式](./fundamentals/modal.md)
-<!--
 1. [下一步](./fundamentals/next-steps.md)
 1. [专业术语](./fundamentals/glossary-of-terms.md)
 
 ### [我能做什么](./howDoIdo)
 
 1. [选项卡导航](./howDoIdo/tab-based-navigation.md)
+<!--
 1. [抽屉导航](./howDoIdo/drawer-based-navigation.md)
 1. [认证流程](./howDoIdo/auth-flow.md)
 1. [iPhone X 适配](./howDoIdo/handling-iphonex.md)

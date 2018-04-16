@@ -23,7 +23,7 @@
 但不是使用全局的 document，
 而是使用 navigation prop 的方法在屏幕组件中传递。
 
-# 导航到新的屏幕
+### 导航到新的屏幕
 
 ```js
 import React from 'react';
@@ -61,7 +61,7 @@ class HomeScreen extends React.Component {
 所以我们现在有两条路由：1）Home 路由2）Details 路由。
 如果我们再次从 Details 屏幕导航到 Details 路由，会发生什么呢？
 
-# 多次导航到路由
+### 多次导航到路由
 
 ```js
 class DetailsScreen extends React.Component {
@@ -89,7 +89,7 @@ class DetailsScreen extends React.Component {
 这些不会被视为不同的路由，
 也不会将新记录添加到浏览器的历史记录中——StackNavigator 的 navigate 行为更像 web 的 window.history.pushState：每当您调用时 navigate 都会把新的路由推入导航堆栈。
 
-# 回退
+### 回退
 
 StackNavigator 提供的头部组件自动包含了一个可从当前活动页面回退的按钮（如果导航堆栈中只有一个屏幕，则没有任何可返回的内容，因此也没有后退按钮）。
 
@@ -128,7 +128,7 @@ React Navigation 关联到硬件的后退按钮，
 并且想要销毁所有屏幕以返回到第一个屏幕。
 我们将在“[认证流程](../howDoIdo/auth-flow.md)”中讨论如何做到这一点。
 
-# 概要
+### 概要
 
 * this.props.navigation.navigate('RouteName') 把新的路由推入 StackNavigator。我们可以多次调用它，并且会继续推入路由。
 * 标题栏将自动显示后退按钮，但您可以通过编程的方式调用 this.props.navigation.goBack() 返回。在 Android 上，物理后退按钮正常工作。

@@ -18,7 +18,7 @@ StackNavigator提供了在Android和iOS上在堆栈中的路由之间导航时�
 
 我们需要从使用 React Navigation 的 StackNavigator 开始。
 
-# 创建一个StackNavigator
+### 创建一个StackNavigator
 
 StackNavigator 是一个返回 React 组件的函数。
 它接受一个路由配置对象，
@@ -82,7 +82,7 @@ export default class App extends React.Component {
 }
 ```
 
-# 添加第二个路由
+### 添加第二个路由
 
 该<RootStack />组件不接受任何 props——所有配置都在 options 参数中指定给该 StackNavigator 方法。
 我们未配置 options，
@@ -128,7 +128,7 @@ Details 路由对应 DetailsScreen 组件。
 自然地，
 我们会提出疑问："我如何从 Home route 跳转至 Details route？"这将在下一章节中介绍。
 
-# 概要
+### 概要
 
 * React Native 没有像Web浏览器那样的内置 API 用于导航。React Navigation为您提供了iOS和Android通过手势和动画以在屏幕之间切换的功能。
 * StackNavigator 是一个接收路由配置对象和选项对象并返回 React 组件的函数。

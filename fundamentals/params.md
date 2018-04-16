@@ -56,7 +56,7 @@ class DetailsScreen extends React.Component {
 
 👉 [运行此代码](https://snack.expo.io/@react-navigation/navigate-with-params)
 
-# 概要
+### 概要
 
 * navigate 接受可选的第二个参数，让您将参数传递给您正在导航的路由。例如：this.props.navigation.navigate('RouteName', {paramName: 'value'}) 将一条附带 {paramName: 'value'} 的新路由推入到 StackNavigator。
 * 你可以通过 this.props.navigation.state.params 读取参数。如果没有指定参数则值为null。

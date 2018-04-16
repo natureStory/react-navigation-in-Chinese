@@ -250,6 +250,6 @@ headerTitle 默认为一个显示 title 的文本组件。
 * 您可以在屏幕组件的静态属性 navigationOptions 内自定义标题。完整配置列表请参阅[API参考](https://reactnavigation.org/docs/stack-navigator.html#navigationoptions-used-by-stacknavigator)。
 * navigationOptions 的静态属性可以是对象或者方法。当它是方法时，他会提供包含 navigation prop、screenProps 和 navigationOptions 的对象(的参数)。
 * 初始化时，您可以在 StackNavigator 中配置共享的 navigationOptions。(屏幕组件中的)静态属性优先于此配置。
-* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/hello-react-navigation)
+* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/custom-header-title-component)
 
 [【← 路由传参】](./params.md)      [【头部按钮 →】](./header-buttons.md)

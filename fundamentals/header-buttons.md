@@ -115,6 +115,6 @@ StackNavigator 为不同平台提供了默认设置的后退按钮。
 
 * 您可以通过 navigationOptions 中的 headerLeft 和 headerRight 属性设置标题中的按钮。
 * 后退按钮是完全可定制的 headerLeft，但如果你只是想改变标题或图片，还有其他navigationOptions prop——headerBackTitle、headerTruncatedBackTitle 和 headerBackImage。
-* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/hello-react-navigation)
+* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/header-interacting-with-component-instance)
 
 [【← 配置标题栏】](./headers.md)      [【全屏模式 →】](./modal.md)

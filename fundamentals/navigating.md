@@ -133,6 +133,6 @@ React Navigation 关联到硬件的后退按钮，
 * this.props.navigation.navigate('RouteName') 把新的路由推入 StackNavigator。我们可以多次调用它，并且会继续推入路由。
 * 标题栏将自动显示后退按钮，但您可以通过编程的方式调用 this.props.navigation.goBack() 返回。在 Android 上，物理后退按钮正常工作。
 * navigation prop 可用于所有的屏幕组件（在路由配置中定义为屏幕的组件并作为 React Navigation 的路由去渲染）。
-* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/hello-react-navigation)
+* [至此，我们已经建立了完整的资源](https://snack.expo.io/@react-navigation/going-back)
 
 [【← hello React Navigation】](./hello-react-navigation.md)      [【路由传参 →】](./params.md)

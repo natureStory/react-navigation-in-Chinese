@@ -22,8 +22,8 @@ React Navigation 源于 React Native 社区对基于 Javascript 的可扩展且�
 1. [路由传参](./fundamentals/params.md)
 1. [配置标题栏](./fundamentals/headers.md)
 1. [头部按钮](./fundamentals/header-buttons.md)
-<!--
 1. [全屏模式](./fundamentals/modal.md)
+<!--
 1. [下一步](./fundamentals/next-steps.md)
 1. [专业术语](./fundamentals/glossary-of-terms.md)
 
